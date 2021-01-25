@@ -1,0 +1,36 @@
+.contactpage
+{
+  margin-top: 2%;
+}
+.inputform
+{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding-left:30px;
+}
+.inputform .input
+{
+	width:100%;
+	border-radius: 7px;
+    padding:15px 10px;
+    margin-bottom: 25px;
+    background: #eeeeee;
+    border:none;
+}
+.button {
+  background-color:#012b7d; /* Green */
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  width: fit-content;
+  border-radius: 25px;
+  font-size: 16px;
+  padding: 14px 40px;
+  margin: 4px 2px;
+  cursor: pointer;
+  margin-top: 15px;
+  font-weight: 700;
+}

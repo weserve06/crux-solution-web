@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,600;1,700;1,800;1,900&display=swap');
+body
+{
+	background-color:#f6f5f5;
+	overflow-x: hidden;
+	margin:0;
+	padding:0; 
+}
+:root{
+	--primary:#012b7d;
+}
+
+
+.text-muted{
+	color:#777;
+}
+.font-mont{
+	font-family: 'Montserrat',sans-serif;
+}
+.font-nunito{
+	font-family:  'Nunito Sans', sans-serif;
+	font-size: 16px;
+	font-weight: 500;
+}
+.button {
+  background-color:var(--primary); 
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+      width: fit-content;
+    border-radius: 25px;
+  font-size: 16px;
+  padding: 14px 40px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.techul
+{
+	padding:0px 20px;
+}
+.techul li
+{
+	padding-top:5px;
+}
+.techstarttext
+{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+}
+.techtext
+{
+	display: flex;
+	justify-content: center;
+	/*align-items: center;*/
+	flex-direction: column;
+	padding-left:40px;
+}
+.techtext1
+{
+	display: flex;
+	justify-content: center;
+	/*align-items: center;*/
+	flex-direction: column;
+	padding-right:40px;
+}
+.line
+{
+	margin-left: 3px;
+	width:25%;
+	height:5px;
+	display: block;
+	border-radius: 25px;
+	border:1px solid pink;
+	background-color:var(--primary);
+}
+/*/*techcounter starts*/
+.techquestionpage,.techcounter
+
+{
+    margin-top:8%;
+}
+
+.image
+{
+	width:100%;
+}
+
+.noneshow{
+    opacity: 0;
+}
+.animate__animated{
+  --animate-duration: 1s;
+	opacity: 1;
+}
+.slomo-1x{
+      --animate-duration: 2s;
+}
+.slomo-2x{
+      --animate-duration: 2.5s;
+}
+.slomo-3x{
+      --animate-duration: 3s;
+}
+.slomo-4x{
+      --animate-duration: 3.5s;
+}
+.slomo-5x{
+      --animate-duration: 4s;
+}

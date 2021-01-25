@@ -189,7 +189,7 @@
             <img src="/images/Crux_logo.png" height="40px">
         </a>
 		<nav>
-		    <span class="menu-title">menu</span>
+		    <span class="menu-title">Menu</span>
 			<ul class="ul-header">
 				<li><a class="ul-header-color header-a-tag-active" href="/">home</a></li>
 				<li><a class="ul-header-color about-a-tag" href="/php/about_us.php">Our Works</a></li>

@@ -45,7 +45,7 @@
 		<div class="row">
 			<div class="col-md-6 col-lg-6 noneshow aboutus_para2">
 				<div class="techtext1">
-				<h2 class="font-mont">PDF Scanner</h2>
+				<h2 class="font-mont">PDF Scanner Application</h2>
 				<span class="line"></span><br/>
 				
 				<p class="font-nunito text-muted">Blood is the most precious gift that anyone can give to another person the gift of life. A decision to donate your blood can save a life, or even several if your blood is separated into its components red cells.</p>

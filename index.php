@@ -50,7 +50,7 @@
 		<div class="row">
 			<div class="col-lg-5 Mainrow">
 				<h2 class="font-mont">Your</h2>
-				<h1 class="font-mont bold-title">IT Development<br/>
+				<h1 class="font-mont bold-title">IT  Hello Development<br/>
 				Partner</h1>
 				<p class="font-nunito1 text-muted para1">Crux solutions is highly enthusiast in creating design and development solutions for startups, SMBs, and enterprises.Development solutions for startups, SMBs, and enterprises.</p>
 			    <button class="button"><a href="contactform.html" style="  list-style-type: none;color:white;text-decoration: none;">Get a quote</a></button>

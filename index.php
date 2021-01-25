@@ -53,7 +53,7 @@
 				<h1 class="font-mont bold-title">IT  Hello Development<br/>
 				Partner</h1>
 				<p class="font-nunito1 text-muted para1">Crux solutions is highly enthusiast in creating design and development solutions for startups, SMBs, and enterprises.Development solutions for startups, SMBs, and enterprises.</p>
-			    <button class="button"><a href="./php/contactform.php" style="  list-style-type: none;color:white;text-decoration: none;">Get a quote</a></button>
+			    <button class="button"><a href="php/contactform.php" style="  list-style-type: none;color:white;text-decoration: none;">Get a quote</a></button>
 			</div>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-6 d-flex justify-content-center">

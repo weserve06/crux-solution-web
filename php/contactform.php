@@ -6,7 +6,10 @@
 	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/contactus.css">
+	<link rel="stylesheet" type="text/css" href="/css/contactus.css">
+	<link rel="stylesheet" type="text/css" href="/css/basic.css">
+
+
 	<title>Contact Us</title>
 </head>
 <body>
@@ -35,7 +38,7 @@
 	<div class="row contactpage mb-5">
 		<div class="col-lg-6">
 			<p class="font-nunito">Feel free to get in touch with us. We are always open to discussing new projects, creative ideas or opportunities & to be part of your visions.</p>
-			<img src="Svg/contact.svg" width="100%">
+			<img src="/Svg/contact.svg" width="100%">
 		</div>
 		<div class="col-lg-6">
 			<div class="inputform">

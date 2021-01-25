@@ -10,7 +10,9 @@ body
 	--primary:#012b7d;
 }
 
-
+.line{
+	margin-bottom: 25px;
+}
 .text-muted{
 	color:#777;
 }
@@ -28,8 +30,9 @@ body
   color: white;
   text-align: center;
   text-decoration: none;
-      width: fit-content;
-    border-radius: 25px;
+    width: fit-content;
+	width: -moz-max-content;
+	border-radius: 25px;
   font-size: 16px;
   padding: 14px 40px;
   margin: 4px 2px;

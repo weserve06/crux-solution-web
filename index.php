@@ -9,7 +9,8 @@
 	<link rel="stylesheet" type="text/css" href="css/basic.css">
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
-	<title>Crux Software</title>
+ 	<link rel="icon" href="images/favicon.ico?v=2" type="image/x-icon" />
+	<title>Crux Solutions</title>
 </head>
 <body>
 <?php
@@ -53,7 +54,7 @@
 				<h1 class="font-mont bold-title">IT Development<br/>
 				Partner</h1>
 				<p class="font-nunito1 text-muted para1">Crux solutions is highly enthusiast in creating design and development solutions for startups, SMBs, and enterprises.Development solutions for startups, SMBs, and enterprises.</p>
-			    <button class="button"><a href="contactform.html" style="  list-style-type: none;color:white;text-decoration: none;">Get a quote</a></button>
+			    <button class="button"><a href="/php/contactform.php" style="  list-style-type: none;color:white;text-decoration: none;">Get a quote</a></button>
 			</div>
 			<div class="col-lg-1"></div>
 			<div class="col-lg-6 d-flex justify-content-center">
@@ -400,7 +401,7 @@
                          <br/><br/>
                          Our main asset are our client. to run your project from initial estimation to release.
 					  </p>
-					  <button class="button"><a href="about_us.html" style="  list-style-type: none;color:white;text-decoration: none;">Our Works</a></button>
+					  <button class="button"><a href="/php/about_us.php" style="  list-style-type: none;color:white;text-decoration: none;">Our Works</a></button>
 				   </div>
 	        	</div>
 	        </div>

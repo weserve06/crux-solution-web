@@ -8,7 +8,7 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"/>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js" integrity="sha256-jDnOKIOq2KNsQZTcBTEnsp76FnfMEttF6AV2DF2fFNE=" crossorigin="anonymous"></script>
-	<link rel="stylesheet" type="text/css" href="css/about_us.css">
+	<link rel="stylesheet" type="text/css" href="/css/about_us.css">
 	<title>About Us</title>
 </head>
 <body>
@@ -27,12 +27,12 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-lg-6">
-				<img src="images/WeServe.png" class="image">
+				<img src="/images/WeServe.png" class="image">
 			</div>
 			<div class="col-md-6 col-lg-6">
 				<div class="techtext noneshow aboutus_para1">
 				<h2 class="font-mont">WeServe</h2>
-				<span class="line"></span><br/>
+				<span class="line"></span>
                 <p class="font-nunito text-muted">Blood is the most precious gift that anyone can give to another person the gift of life. A decision to donate your blood can save a life, or even several if your blood is separated into its components red cells, platelets and plasma which can be used individually for patients with specific conditions.</p>
 				<button class="button shadow">Check it out</button>
 			</div>
@@ -46,7 +46,7 @@
 			<div class="col-md-6 col-lg-6 noneshow aboutus_para2">
 				<div class="techtext1">
 				<h2 class="font-mont">PDF Scanner</h2>
-				<span class="line"></span><br/>
+				<span class="line"></span>
 				
 				<p class="font-nunito text-muted">Blood is the most precious gift that anyone can give to another person the gift of life. A decision to donate your blood can save a life, or even several if your blood is separated into its components red cells.</p>
 				<ul class="techul">
@@ -57,7 +57,7 @@
 				<button class="button shadow">Check it out</button>
 			</div>
 			<div class="col-md-6 col-lg-6">
-				<img src="images/PDF Scanner.png" class="image">
+				<img src="/images/PDF Scanner.png" class="image">
 			</div>
 		</div>
 	</div>
@@ -66,12 +66,12 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-lg-6">
-				<img src="images/provenance.png" class="image">
+				<img src="/images/provenance.png" class="image">
 			</div>
 			<div class="col-md-6 col-lg-6">
 				<div class="techtext noneshow aboutus_para3">
 				<h2 class="font-mont">Provenance Stories</h2>
-				<span class="line"></span><br/>
+				<span class="line"></span>
                 <p class="font-nunito text-muted">Blood is the most precious gift that anyone can give to another person the gift of life. A decision to donate your blood can save a life, or even several if your blood is separated into its components red cells, platelets and plasma which can be used individually for patients with specific conditions.</p>
 				<button class="button shadow">Check it out</button>
 			</div>
@@ -85,7 +85,7 @@
 			<div class="col-md-6 col-lg-6 noneshow aboutus_para4">
 				<div class="techtext1">
 				<h2 class="font-mont">CRUX Superstore</h2>
-				<span class="line"></span><br/>
+				<span class="line"></span>
 				
 				<p class="font-nunito text-muted">Blood is the most precious gift that anyone can give to another person the gift of life. A decision to donate your blood can save a life, or even several if your blood is separated into its components red cells.</p>
 				<ul class="techul">
@@ -95,7 +95,7 @@
 			</div>
 			</div>
 			<div class="col-md-6 col-lg-6">
-				<img src="images/superstore.png" class="image">
+				<img src="/images/superstore.png" class="image">
 			</div>
 		</div>
 	</div>
@@ -104,12 +104,12 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-6 col-lg-6">
-				<img src="images/Quicksync.png" class="image">
+				<img src="/images/Quicksync.png" class="image">
 			</div>
 			<div class="col-md-6 col-lg-6">
 				<div class="techtext noneshow aboutus_para5">
 				<h2 class="font-mont">QuickSync</h2>
-				<span class="line"></span><br/>
+				<span class="line"></span>
                 <p class="font-nunito text-muted">Blood is the most precious gift that anyone can give to another person the gift of life. A decision to donate your blood can save a life, or even several if your blood is separated into its components red cells, platelets and plasma which can be used individually for patients with specific conditions.</p>
 			</div>
 			</div>

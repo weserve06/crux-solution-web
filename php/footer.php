@@ -123,7 +123,9 @@ flex-direction: column;
 <style>
 	.footer-line{
     border-bottom: 3px solid var(--primary);
+    width: -moz-max-content;
     width: fit-content;
+
     margin-bottom: 20px;
     padding-bottom: 8px;
 	}
@@ -140,9 +142,9 @@ flex-direction: column;
 		<div class="row">
 			<div class="col-md-6 col-lg-3 outerfooter1">
 				<div class="innerfooter">
-            <img src="/software_development/images/Crux_logo.png" class="logo">      
+            <img src="/images/Crux_logo.png" class="logo">
 					<p class="font-nunito1"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;&nbsp;+91 97266 08999</p>
-					<p class="font-nunito1"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; <a href="mailto:contact@cruxsolutions.in" target="_blank" class="a-tag">contact@cruxsolutions.in</a></p>
+					<p class="font-nunito1"><i class="fa fa-envelope" aria-hidden="true"></i>&nbsp;&nbsp; <a href="mailto:contact@cruxsolutions.in" target="_blank" class="a-tag" style="color:#333;">contact@cruxsolutions.in</a></p>
 			    </div>
 			</div>
 			<div class="col-md-6 col-lg-3 outerfooter">

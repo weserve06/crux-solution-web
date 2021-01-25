@@ -185,15 +185,15 @@
     }
 </style>
 <header>
-		<a href="/software_development/">
-            <img src="/software_development/images/Crux_logo.png" height="40px">      
+		<a href="/">
+            <img src="/images/Crux_logo.png" height="40px">
         </a>
 		<nav>
 		    <span class="menu-title">menu</span>
 			<ul class="ul-header">
-				<li><a class="ul-header-color header-a-tag-active" href="/software_development/">home</a></li>
-				<li><a class="ul-header-color about-a-tag" href="/software_development/php/about_us.php">Our Works</a></li>
-				<li><a class="ul-header-color contact-a-tag" href="/software_development/php/contactform.php">Get a Quote</a></li>
+				<li><a class="ul-header-color header-a-tag-active" href="/">home</a></li>
+				<li><a class="ul-header-color about-a-tag" href="/php/about_us.php">Our Works</a></li>
+				<li><a class="ul-header-color contact-a-tag" href="/php/contactform.php">Get a Quote</a></li>
 			</ul>
 			<ul>
 			    <li>facebook</li>

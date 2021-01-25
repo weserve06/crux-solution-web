@@ -192,8 +192,8 @@
 		    <span class="menu-title">menu</span>
 			<ul class="ul-header">
 				<li><a class="ul-header-color header-a-tag-active" href="/software_development/">home</a></li>
-				<li><a class="ul-header-color about-a-tag" href="about">Our Works</a></li>
-				<li><a class="ul-header-color contact-a-tag" href="contact">Get a Quote</a></li>
+				<li><a class="ul-header-color about-a-tag" href="/software_development/php/about_us.php">Our Works</a></li>
+				<li><a class="ul-header-color contact-a-tag" href="/software_development/php/contactform.php">Get a Quote</a></li>
 			</ul>
 			<ul>
 			    <li>facebook</li>

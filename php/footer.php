@@ -1,7 +1,7 @@
 <style>
 	/*footer starts*/
 	:root{
-	--primary: #26017d;
+	--primary: #012b7d;
 }
 
 .footer
